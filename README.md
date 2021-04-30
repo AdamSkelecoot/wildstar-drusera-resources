@@ -1,5 +1,6 @@
 # Our Goal
 When Wildstar closed in November 2018, it took with it the characters that brought its world to life. We never got to see the closure of Drusera's arc, or face the Entity in a final confrontation. There's nothing worse in a story than an ending denied. That being said, we still have access to the files containing not only the models, but their textures and skeletons/rigs, among other props and assets. With this in mind, our main goal with this project is to produce a rigged model of a Wildstar character (in this instance, Drusera) to be used in fan animations. We want this rig to be close as possible to the original rig, while also making modifications for easy animation.
+
 While we are only focusing on one model for this project, our hope is that this will inspire other members of the community to rig other character models, until we have a library of Wildstar characters ready to be animated on programs like Source Filmmaker (SFM) and MikuMikuDance (MMD). 
 
 # The Main Aspects of the Model
